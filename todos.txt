@@ -1,4 +1,3 @@
-run
 walk
 clean the toilet
 clean the floor
